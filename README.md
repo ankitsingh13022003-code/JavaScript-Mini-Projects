@@ -7,7 +7,7 @@ This project is part of my **JavaScript Mini Projects Collection**, where I am b
 
 📸 Screenshot
 
-![To Do App Screenshot](./To-Do-JavaScript/images/img.png)
+![To Do App Screenshot](./To-do-JavaScript/images/img.png)
 
 <br>
 🚀 Features
