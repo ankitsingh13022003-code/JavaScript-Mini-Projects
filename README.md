@@ -22,6 +22,30 @@ This project is part of my **JavaScript Mini Projects Collection**, where I am b
 
 <br>
 
+🔐 Random Password Generator (JavaScript)
+<br>
+
+📸 Screenshot[Random Password Generator](./PasswordGneratorJavaScript/images/img.png)
+
+<br>
+
+🚀 Features
+
+🔀 Generates fully random passwords
+
+🔢 Supports numbers, symbols, uppercase & lowercase
+
+🎚 Adjustable password length
+
+📋 One-click copy to clipboard
+
+⚡ Instant password refresh
+
+✨ Clean UI with simple CSS
+
+🧠 Beginner-friendly logic & DOM manipulation
+
+<br>
 🛠 Tech Stack
 
 - **HTML5**  
