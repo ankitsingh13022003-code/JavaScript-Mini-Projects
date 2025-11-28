@@ -25,7 +25,9 @@ This project is part of my **JavaScript Mini Projects Collection**, where I am b
 🔐 Random Password Generator (JavaScript)
 <br>
 
-📸 Screenshot[Random Password Generator](./PasswordGneratorJavaScript/images/img.png)
+📸 Screenshot
+
+![RandomPasswordGenerator](./PasswordGneratorJavaScript/images/img.png)
 
 <br>
 
